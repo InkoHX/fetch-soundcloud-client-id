@@ -1,0 +1,22 @@
+{
+  "name": "@inkohx/fetch-soundcloud-client-id",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InkoHX/fetch-soundcloud-client-id.git"
+  },
+  "keywords": [
+    "soundcloud"
+  ],
+  "author": "InkoHX <me@inkohx.dev>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/InkoHX/fetch-soundcloud-client-id/issues"
+  },
+  "homepage": "https://github.com/InkoHX/fetch-soundcloud-client-id#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
